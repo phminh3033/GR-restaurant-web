@@ -16,11 +16,11 @@ const AboutUs = () => (
         <p className="p__opensans">Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit. 
         Quis Pharetra Adipiscing Ultrices Vulputate Posuere Tristique. 
         In Sed Odio Nec Aliquet Eu Proin Mauris Et.</p>
-        
+        <button type="button" className="custom__button">Know More</button>
       </div>
 
       <div className="app__aboutus-content_knife flex__center">
-        <img src={images.knife} alt="about_knife" className="spoon__img"/>
+        <img src={images.knife} alt="about_knife"/>
       </div>
 
       <div className="app__aboutus-content_history">
@@ -29,6 +29,7 @@ const AboutUs = () => (
         <p className="p__opensans">Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit. 
         Quis Pharetra Adipiscing Ultrices Vulputate Posuere Tristique. 
         In Sed Odio Nec Aliquet Eu Proin Mauris Et.</p>
+        <button type="button" className="custom__button">Know More</button>
       </div>
     </div>
   </div>
