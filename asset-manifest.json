@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/GR-restaurant-web/static/css/main.f67b8f10.css",
+    "main.js": "/GR-restaurant-web/static/js/main.c2a1622c.js",
+    "static/media/bg.png": "/GR-restaurant-web/static/media/bg.3d421b1b5682e1b67deb.png",
+    "index.html": "/GR-restaurant-web/index.html",
+    "main.f67b8f10.css.map": "/GR-restaurant-web/static/css/main.f67b8f10.css.map",
+    "main.c2a1622c.js.map": "/GR-restaurant-web/static/js/main.c2a1622c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f67b8f10.css",
+    "static/js/main.c2a1622c.js"
+  ]
+}
