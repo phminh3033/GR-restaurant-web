@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/GR-restaurant-web/static/css/main.4d5c4dc2.css",
-    "main.js": "/GR-restaurant-web/static/js/main.58f5ca19.js",
+    "main.css": "/GR-restaurant-web/static/css/main.ef9232c4.css",
+    "main.js": "/GR-restaurant-web/static/js/main.b2754f5d.js",
     "static/media/meal.mp4": "/GR-restaurant-web/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
     "static/media/bg.png": "/GR-restaurant-web/static/media/bg.3d421b1b5682e1b67deb.png",
     "static/media/welcome.png": "/GR-restaurant-web/static/media/welcome.d724eb984456d9c97470.png",
@@ -24,11 +24,11 @@
     "static/media/sign.png": "/GR-restaurant-web/static/media/sign.9bf0bd90ad4caa17991f.png",
     "index.html": "/GR-restaurant-web/index.html",
     "static/media/spoon.svg": "/GR-restaurant-web/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
-    "main.4d5c4dc2.css.map": "/GR-restaurant-web/static/css/main.4d5c4dc2.css.map",
-    "main.58f5ca19.js.map": "/GR-restaurant-web/static/js/main.58f5ca19.js.map"
+    "main.ef9232c4.css.map": "/GR-restaurant-web/static/css/main.ef9232c4.css.map",
+    "main.b2754f5d.js.map": "/GR-restaurant-web/static/js/main.b2754f5d.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d5c4dc2.css",
-    "static/js/main.58f5ca19.js"
+    "static/css/main.ef9232c4.css",
+    "static/js/main.b2754f5d.js"
   ]
 }
